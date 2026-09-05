@@ -23,6 +23,12 @@ rss_feeds = {
     "💲 华尔街见闻":{
         "华尔街见闻":"https://dedicated.wallstreetcn.com/rss.xml",      
     },
+    "💲 CNBC":{
+        "CNBC News":"https://finance.yahoo.com/news/rssindex",      
+    },
+    "💲 Yahoo Finance":{
+        "Yahoo Finance":"https://www.cnbc.com/id/100003114/device/rss/rss.html",      
+    },
     "💻 36氪":{
         "36氪":"https://36kr.com/feed",   
         },
